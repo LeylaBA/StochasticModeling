@@ -1,2 +1,2 @@
 # StochasticModeling
-Some of the exercises I worked on through the course of Stochastic Modeling lecture.
+Some of the exercises I worked on through the course of Stochastic Modeling lecture. The course consisted of (1) theoretical lectures on stochastic modeling and probability and (2) exercises that are obligatory to solve using R programming, of which I did not have any prior knowledge. I have managed to complete all thirteen exercises by teaching myself R programming every week, simultaneously with the weekly theoretical lectures. 
